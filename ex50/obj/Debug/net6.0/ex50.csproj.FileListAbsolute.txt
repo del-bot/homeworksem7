@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/homeworksem7/ex50/bin/Debug/net6.0/ex50
+/Users/delyashchuriumova/homeworksem7/ex50/bin/Debug/net6.0/ex50.deps.json
+/Users/delyashchuriumova/homeworksem7/ex50/bin/Debug/net6.0/ex50.runtimeconfig.json
+/Users/delyashchuriumova/homeworksem7/ex50/bin/Debug/net6.0/ex50.dll
+/Users/delyashchuriumova/homeworksem7/ex50/bin/Debug/net6.0/ex50.pdb
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.AssemblyInfo.cs
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.dll
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/refint/ex50.dll
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.pdb
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ex50.genruntimeconfig.cache
+/Users/delyashchuriumova/homeworksem7/ex50/obj/Debug/net6.0/ref/ex50.dll
